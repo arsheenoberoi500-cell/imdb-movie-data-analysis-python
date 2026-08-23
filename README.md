@@ -87,17 +87,4 @@ jupyter notebook analysis.ipynb
 
 You'll need pandas, numpy, matplotlib, and seaborn installed.
 
-## Repository Structure
-
-```
-imdb-movie-data-analysis/
-├── analysis.ipynb
-├── movies.csv
-├── README.md
-└── images/
-    ├── heatmap.png
-    ├── genre_comparison.png
-    ├── ratings_by_decade.png
-    └── top_actors.png
-```
 
